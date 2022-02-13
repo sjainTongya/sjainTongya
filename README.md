@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shraddhatongya97@gmail.com**
 
-- 📄 Know about my experiences [https://sjaintongya.github.io/myPortfolio/](https://sjaintongya.github.io/myPortfolio/)
+- 📄 Know about my experiences [https://my-portfolio-techygroot.vercel.app](https://my-portfolio-techygroot.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
